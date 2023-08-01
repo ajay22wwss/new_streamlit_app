@@ -2,4 +2,7 @@ import streamlit
 
 streamlit.title('My parent New healthy dinner')
 
-strealit.title('machi open the bottle')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
